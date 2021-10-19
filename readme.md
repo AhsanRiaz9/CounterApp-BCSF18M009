@@ -4,4 +4,4 @@
 	BCSF18M009 
 	Ahsan Riaz 
 
-![output](output.png)
+![output](output.jpeg)
